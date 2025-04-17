@@ -6,7 +6,7 @@ Bruce's website and additional information can be found here: http://w8bh.net/
 
 ![image](https://github.com/user-attachments/assets/14b7e2cb-526c-4650-acd3-af152780c68b)
 
-The clock can be confired for any location within the world, by inserting the appropriate string for the desired time zone in the code which identifies the offset from UTC and the dates and times of the changes to daylight savings. On startup and at regular intervals, the clock receives time synchronisation from the designated internet time server via WiFi, calculates local time which is automatically adjusted for daylight savings. It's a quick build, fun little project and a great practical addition to the shack.
+The clock can be confired for any location within the world, by inserting the appropriate string for the desired time zone in the code. This string identifies the offset from UTC and the dates and times of the changes to daylight savings. On startup and at regular intervals, the clock receives time synchronisation from the designated internet time server via WiFi, calculates local time which is automatically adjusted for daylight savings. Details of where to find the string for your location is covered in the documentatio. It's a quick build, fun little project and a great practical addition to the shack.
 
 ![image](https://github.com/user-attachments/assets/59c70f6c-8328-487c-b480-25ff34069805)
 

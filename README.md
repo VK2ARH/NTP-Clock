@@ -16,7 +16,7 @@ This build uses the 2.8" LCD screen, which requires a little bit of filing to th
 
 Further updates may produce a new main board and relocate the holes to ensure that the 2.8" screen does not require any modification to allow use of the standard W8BH main board. Any modified board will be posted here should it be designed. 
 
-The standoffs between the Top Cover, PCB and Bottom cover are 15mm although the build could be made thinner if the ESP8266 and buck converter were soldered directly to the main PCB, but this wouold provide difficulties for subesquent replacement if required.
+The standoffs between the PCB and Bottom cover are 15mm and 16mm (15mm + 1mm Plastic washer)between the Top Cover and the PCB. The build could be made thinner if the ESP8266 and buck converter were soldered directly to the main PCB, but this wouold provide difficulties for subesquent replacement if required.
 
 
 ![image](https://github.com/user-attachments/assets/685b4c6e-ecf7-4b40-9a97-8eb329498cef)

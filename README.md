@@ -14,17 +14,17 @@ The clock takes about an hour to build and is a fun little project which deliver
 
 Whilst the clock can be powered directly with a USB-C connection to the onboard ESP8266 module, Bruce's project made use of a buck converter to support a wide range of input voltages from 7-15v, making it ideal to be powered from a 13.8v power supply in the shack.
 
-Full details of the capabilty of the radio, how to build and configure it are contained in the documentation. Further updates will be posted here should any update to the software or gerber files become availble. The software is open source so feel free to improve or modify the code. Options could include using the Colour LED display's touch featue to input network ID and password, selecting additional information to be displayed eg: local or solar weather, providing a dimming function etc.
+Full details of the capabilty of the radio, how to build and configure it are contained in the documentation. Further updates will be posted here should any update to the software or gerber files become availble. The software is open source so feel free to improve or modify the code. Options could include an ability to input WiFi network ID, password and callsign, selecting additional information to be displayed eg: local or solar weather, providing a dimming function etc.
 
-The W8BH PCB enables the use of either a 2.2", 2.8" or 3.2" screen. This build uses the 2.8" LCD screen, which requires a little bit of filing/removal around the mounting holes of the 2.8" LCD board to provide the necessary clearance for the standoffs to mount the display in the 'PCB sandwich' shown in the photos. This filing and/or cutting/shaping of the display board can be easily undertaken as the board does not contain any tracks around the mounting holes. 
+The W8BH PCB enables the use of either a 2.2", 2.8" or 3.2" screen. This build uses the 2.8" LCD screen, which requires a little bit of filing/removal of LCB material around the mounting holes of the 2.8" LCD board to provide clearance for the standoffs to mount the display in the 'PCB sandwich' shown in the photos. This filing and/or cutting/shaping of the display board can be easily undertaken as the board does not contain any tracks around the mounting holes. 
 
 The 2.8" screen was chosen as the perceived best price/screen size option. The holes on a 3.2" LCD display align perfectly with the W8BH PCB holes and the use of a 2.2" board will allow the mounting spacers to be used without any modification to the 2.2" board, but in both these cases a different top cover would be required to align with the display. My recommendation - stick with the 2.8" screen if you wish to use the top cover.
 
-The standoffs between the PCB and Bottom cover are 15mm and 16mm (15mm + 1mm Plastic washer)between the Top Cover and the PCB. The build could be made thinner if components were soldered directly to the main PCB, but this would provide difficulties for subesquent replacement if required.
+The standoffs between the PCB and Bottom cover are 15mm and 16mm (15mm + 1mm Plastic washer)between the Top Cover and the PCB. The build could be made thinner if components were soldered directly to the main PCB, but if you are happy to do that, simply adjust the size of the spacers between the boards.
 
 ![image](https://github.com/user-attachments/assets/685b4c6e-ecf7-4b40-9a97-8eb329498cef)
 
-Simon VK2YU designed a great 3D printed housing for the NTP clock using the top cover shown here. The link to the .stl files in Thingiverse will be listed shortly.
+Simon VK2YU designed a great 3D printed housing for the NTP clock using the top cover shown here. The link to the .stl files in Thingiverse will be listed shortly. But here's some early photos of the housing. 
 
 ![image](https://github.com/user-attachments/assets/fe04f1a4-b68c-4498-a936-82e995905eb8)
 

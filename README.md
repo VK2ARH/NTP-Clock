@@ -24,7 +24,7 @@ The standoffs between the PCB and Bottom cover are 15mm and 16mm (15mm + 1mm Pla
 
 ![image](https://github.com/user-attachments/assets/685b4c6e-ecf7-4b40-9a97-8eb329498cef)
 
-Simon VK2YU designed a great 3D printed housing for the NTP clock using the top cover shown here. The link to the .stl files in Thingiverse will be listed shortly. But here's some early photos of the housing. 
+Simon VK2YU designed a great 3D printed housing for the NTP clock using the top cover shown in this project. The link to the .stl files in Thingiverse can be found here: https://www.thingiverse.com/thing:7013343  Tanks Simon :) 
 
 ![image](https://github.com/user-attachments/assets/fe04f1a4-b68c-4498-a936-82e995905eb8)
 

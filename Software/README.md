@@ -1,1 +1,1 @@
-
+This subdirectory holds the code for the ES8266 to operate the NTP Clock. The Arduino IDE needs to have the apprporiate library loaded in order to upload the firware to the ESP8266. Details of how to upload this library can be found in the Documentation subdirectory of this repository.

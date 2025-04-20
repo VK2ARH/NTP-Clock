@@ -18,7 +18,7 @@ Full details of the capabilty of the clock, how to build and configure it are co
 
 The W8BH PCB enables the use of either a 2.2", 2.8" or 3.2" screen. This build uses the 2.8" LCD screen as it was chosen as the perceived best price/screen size option, although it does requires the removal of some PCB material around the mounting holes of the 2.8" display board to provide clearance for the standoffs to mount the display in the 'PCB sandwich' housing. This trimming of the display PCB can be done with confidence knowing that there are no tracks around the mounting holes. 
 
-The holes on a 3.2" LCD display align perfectly with the W8BH PCB holes and the use of a 2.2" board will allow the mounting spacers to be used without any modification to the 2.2" board, but in both these cases a different top cover would be required to align with the display. My recommendation - stick with the 2.8" screen if you wish to use the top cover.
+The holes on a 3.2" LCD display align perfectly with the W8BH PCB holes and the use of a 2.2" board will allow the mounting spacers to be used without any modification to the 2.2" board, but in both these cases a different top cover would be required to align with the display. My recommendation - stick with the 2.8" screen if you wish to use the top cover, but I have added a 3.2" display top cover - see the gerber subdirectory for details.
 
 The standoffs between the PCB and Bottom cover are 15mm and 16mm (15mm + 1mm Plastic washer)between the Top Cover and the PCB. The build could be made thinner if components were soldered directly to the main PCB, but if you are happy to do that, simply adjust the size of the spacers between the boards.
 

@@ -1,5 +1,7 @@
 This repository holds the files used for the Bruce Hall W8BH NTP Clock. The clock displays both local and UTC time derived and reqularly updated from an internet time server via wifi. The build project took Bruce's original BN33 PCB and added a top and bottom cover to house the clock board. Gerbers are available for these covers with or without the Manly Warringah Radio Society (MWRS) logo seen in the picture. 
 
+Documentation and Gerber files specifically for the MWRS build project are also included in this repository in the appropriate sub folder.
+
 ![image](https://github.com/user-attachments/assets/14b7e2cb-526c-4650-acd3-af152780c68b)
 
 Documentation from W8BH and the CalQRP group are also contained in this repository as a 'one stop' shop to secure the information and code needed for the build. Details of the software to run the dual time clock as well as how to configure the code with your callsign, network SSID, password and location are contained in the documentation. 

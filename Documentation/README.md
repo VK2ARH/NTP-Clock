@@ -1,4 +1,4 @@
-This folder contains documentation associated with the NTP Clock build - primarily to support the Manly Warringah Radio Society (MWRS) project developed by Richard VK2ARH. The principal build document for this project is **MWRS NTP Clock Build Notes.pdf** this should be read first.
+This folder contains documentation associated with the NTP Clock build - primarily to support the Manly Warringah Radio Society (MWRS) project developed by Richard VK2ARH. The principal build document for this project is **MWRS NTP Clock Build Notes v1.x.pdf** this should be read first.
 
 This project is drawn from the NTP clock developed by Bruce Hall W6BH and a wealth of information relating to this project can be found on his website : http://w8bh.net/
 

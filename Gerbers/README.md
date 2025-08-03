@@ -1,3 +1,11 @@
+Update 3rd August 2025
+
+Uploaded gerber files for VK2ARH PCB variant - used by the MWRS. This latest board includes support for and ESP32 Zero and a number of push button switches and a LDR/resistor to support further software development and experimentation.Dimming capabiity both manual and automatic has been added to the firmware by Mark KD5RXT and the latest version of this software taking advantage of these additional components on the main board can be found in the Sofware sub folder.
+
+<img width="1928" height="1237" alt="image" src="https://github.com/user-attachments/assets/0e83d3a1-262a-404d-a75c-fd4a42a31e75" />
+
+
+
 This directory contains the gerber files for the top and bottom covers to house the NTP clock in the PCB sandwich. The top cover opening has been designed for the 2.8" LCD Display. (3.2" display option now available).
 ![image](https://github.com/user-attachments/assets/c18dfef0-8964-447d-8197-54c2cbab43b1)
 
@@ -5,7 +13,7 @@ There are two variants, one with the Manly Warringah Radio Society (MWRS) Logo, 
 
 ![image](https://github.com/user-attachments/assets/fe1a43e4-cf5c-4946-87dd-4b80b3b65d5d)
 
-The original W8BH gherber files for the BN32 and BN33 PCB's are also housed here. The housing that I designed and shown here is for the BN33 board.
+The original W8BH gherber files for the BN32 and BN33 PCB's are also housed here together with the (VK2ARH MWRS layout) PCB. The housing that I designed and shown here is for the BN33 board.
 
 ![image](https://github.com/user-attachments/assets/b875d27a-2bee-47fc-935c-b9e003f0446a)
 

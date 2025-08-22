@@ -25,3 +25,10 @@ Minor modification to screen dimming function to correct blank screen when on Au
 New version added which supports night mode (MWRS V2_2) - hold down SW2 for > 3 seconds to toggle between night / day mode. Many thanks for Mark KD5RXT for developing this functionality. Photo shows both Day and Night version (in real life the images on the screen are much sharper than those shown in the photo), clocks are also mounted in the 3D printed housing developed by Simon VK2YU. A video demonstrating switching between day and night mode can be found here: https://youtu.be/ylc6PuMD5ms?si=G7lI8I07H4Umw_Xh
 
 <img width="2754" height="1052" alt="image" src="https://github.com/user-attachments/assets/1be58430-7729-4189-85fc-d839d59ca39e" />
+
+
+Update 22nd AUGUST 2025
+
+This version of the software (MWRS V2_3) incorporates a longer HAMSQL server certificate to display the solar data for a longer period before a new certificate is required. When the NTP clock is unable to display solar data a text string showing *** no data *** appears on the screen as shown below. This can be a result of server outage or expiration of the server certificate.
+
+<img width="1692" height="1108" alt="image" src="https://github.com/user-attachments/assets/2d7e16b1-084a-4456-896a-eac03bc316d4" />

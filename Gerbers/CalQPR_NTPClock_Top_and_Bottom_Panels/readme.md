@@ -1,4 +1,5 @@
-This directory contains the gerber files for the top and bottom covers to house the NTP clock in the PCB sandwich using the W8BH original WB33 board. The top cover opening has been designed for the 2.8" LCD Display. (3.2" display option now available).
+This directory contains the gerber files for the top and bottom covers to house the NTP clock in the PCB sandwich using the W8BH original BN33 board. The top cover opening has been designed for the 2.8" LCD Display. (3.2" display option now available).
+
 ![image](https://github.com/user-attachments/assets/c18dfef0-8964-447d-8197-54c2cbab43b1)
 
 There are two variants, one with the Manly Warringah Radio Society (MWRS) Logo, and one with the logo removed.

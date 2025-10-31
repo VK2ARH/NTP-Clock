@@ -1,4 +1,19 @@
-This subdirectory holds the code for the ES8266 to operate the NTP Clock. The Arduino IDE needs to have the apprporiate library loaded in order to upload the firware to the ESP8266. Details of how to upload this library can be found in the Documentation subdirectory of this repository, and should be read inconjunction with the library details documented in the code.
+**Update 31st October 2025**
+
+The latest version of the software is now V2.3. This release includes a permanant solar data server certificate, dimming and night mode functions and use of WiFi Manager to enter your WiFi network credentials. Thanks to Mark KD5RXT anmd Simon VK2YU for their support and contribution to the development of this code, along with the work done by Robert AI6P and John WA2FZM.
+
+The Original NTP Clock software developed by Bruce Hall W8BH has been enhanced as follows:
+- Robert Kincaid AI6P added solar indices to the UTC display header after downloading solar data from the ‘hamsql.com’ website run by Paul Herrman N0NBH. These are updated approximately every 30 minutes with data pulled down from Paul’s solar weather server.
+- Simon VK2YU added WiFi Manager to better manage Wi-Fi connections and allow screen-based input from your cell phone rather than hard coding the wifi credentials into the NTP Clock firmware.
+- Mark KD5RXT developed code to support the dimming functionality along with the ‘Night Mode’ display.
+- Robert AI6P and John WA2FZM have further refined the code used by the CalQRP group which provides an extended range of sola data display, restructured the code and provided a permanent server certificate to access the solar data (this has also been incorporated into the MWRS code), but does not yet include the dimming, night mode or WiFi manager functions. Their code can be found here together with how to use the code with an ESP32 and a CYD (Cheap Yellow Display): 
+   http://github.com/WA2FZW/W8BH-NTP-Clock-Revisited-by-WA2FZW-and-AI69
+
+As software continues to develop it is likely that features of both versions of the software may be incorporated into a single version, but this is yet to be undertaken. Discussion in the rest of this document relates to the MWRS version of the software.
+The software will need to be configured with your callsign (or any other header you wish to display) and the local time zone if you wish to operate the clock in any location other that Australian Eastern Standard Time (Sydney).
+Details of how to change the code to support other time zones can be found in the CalQRP_Club-NTP Clock_ReadMeFirst 2025-04-04.pdf document and a full list of global time zone ‘code string’ can be found here:
+https://github.com/nayarsystems/posix_tz_db/blob/master/zones.csv
+
 
 There are two .ino files here for use with the NTP Clock - the first NTP_DualClock.ino is the original firmware provided by Bruce Hall W8BH. The second is the modified firmware which includes to solar indicies modification by Robert Kincaid AI6P together with the WiFi Manager functionality added by Simon VK2YU. I recommend that you use the second .ino file NTP_Dual_Clock_VK2YU_V1.ino . This version will create a wireless access point when there are no WiFi credentials in the NTP clock that can be used - there will be a blank screed after about 15 seconds if the NTP clock cannot find a WiFi network.
 

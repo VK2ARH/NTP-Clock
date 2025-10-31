@@ -1,3 +1,10 @@
+**Update 31st October 2025**
+I have restructured this directory by segmenting the gerber files into their respective families
+-  W8BH directory contains the original W8BH gerber files for the BN32 and BN33 PCB's.
+-  CalQRP NTPClock Top and Bottom Panels contain the gerber files for the Top and Bottom cover developed for the BN33 board which was used for the CalQRP NTP clock project. The panels are available either with or without the MWRS logo.
+-  VK2ARH Version 1 directory contains the gerber files for the Original project developed for the MWRS build event.
+-  VK2ARH Version 2 directory contains the latest NTP clock boards which have added functionality compated to the version 1 boards.
+  
 **Update 3rd August 2025**
 
 Uploaded gerber files for VK2ARH PCB variant - used by the MWRS, together with the top and bottom covers used in the project with a 2.8" screen. This latest board includes support for and ESP32 Zero and a number of push button switches and a LDR/resistor to support further software development and experimentation. Dimming capabiity both manual and automatic has been added to the firmware by Mark KD5RXT and the latest version of this software taking advantage of these additional components on the main board can be found in the Sofware sub folder.
@@ -6,9 +13,6 @@ Uploaded gerber files for VK2ARH PCB variant - used by the MWRS, together with t
 
 <img width="1167" height="380" alt="image" src="https://github.com/user-attachments/assets/e757597e-391b-4a53-8728-c850d211c1a9" />
 
-
-
-
 This directory contains the gerber files for the top and bottom covers to house the NTP clock in the PCB sandwich. The top cover opening has been designed for the 2.8" LCD Display. (3.2" display option now available).
 ![image](https://github.com/user-attachments/assets/c18dfef0-8964-447d-8197-54c2cbab43b1)
 
@@ -16,7 +20,6 @@ There are two variants, one with the Manly Warringah Radio Society (MWRS) Logo, 
 
 ![image](https://github.com/user-attachments/assets/fe1a43e4-cf5c-4946-87dd-4b80b3b65d5d)
 
-The original W8BH gherber files for the BN32 and BN33 PCB's are also housed here together with the (VK2ARH MWRS layout) PCB. The housing that I designed and shown here is for the BN33 board.
 
 ![image](https://github.com/user-attachments/assets/b875d27a-2bee-47fc-935c-b9e003f0446a)
 

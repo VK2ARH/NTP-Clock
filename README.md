@@ -1,10 +1,9 @@
-This repository holds the files used for the Bruce Hall W8BH NTP Clock. The clock displays both local and UTC time derived and reqularly updated from an internet time server via wifi. The build project took Bruce's original BN33 PCB and added a top and bottom cover to house the clock board. Gerbers are available for these covers with or without the Manly Warringah Radio Society (MWRS) logo seen in the picture. 
+This repository holds the files used for the Bruce Hall W8BH NTP Clock which has been further developed by Richard VK2ARH together with contributions from a number of fellow Amateur Radio Operators who are acknowledged throughout the documentation.  The clock displays both local and UTC time derived and reqularly updated from an internet time server via wifi. The build project took Bruce's original BN33 PCB and added a top and bottom cover to house the clock board to support the CalQRP NTP Clock build in 2025.  The VK2ARH PCB then evoled through a series of changes to provide additional functionality (in conjunction with softwarwe development) whilst retaining the ability to operate as the same basic NTP clock developed by Bruce if the additional features are not required.The boards were developed to support the Manly Warringah Radio Society's build program in 2025 as a fun project to bring society members together and have some fun whilst building a practical addition to the 'shack'.
 
-Documentation and Gerber files specifically for the MWRS build project are also included in this repository in the appropriate sub folder.
+
+Documentation and Gerber files specifically for the MWRS build project are also included in this repository in the appropriate sub folder. The main construction manual for the project "MWRS NTP CLock Build Notes" can be found in the document folder and should be read first to guide you through the resources available and method for building the clock.
 
 ![image](https://github.com/user-attachments/assets/14b7e2cb-526c-4650-acd3-af152780c68b)
-
-Documentation from W8BH and the CalQRP group are also contained in this repository as a 'one stop' shop to secure the information and code needed for the build. Details of the software to run the dual time clock as well as how to configure the code with your callsign, network SSID, password and location are contained in the documentation. 
 
 Bruce's website and additional information can be found here: http://w8bh.net/
 
@@ -16,7 +15,7 @@ The clock takes about an hour to build and is a fun little project which deliver
 
 Whilst the clock can be powered directly with a USB-C connection to the onboard ESP8266 module, Bruce's project made use of a buck converter to support a wide range of input voltages from 7-15v, making it ideal to be powered from a 13.8v power supply in the shack.
 
-Full details of the capabilty of the clock, how to build and configure it are contained in the documentation. Further updates will be posted here should any update to the software or gerber files become availble. The software is open source so feel free to improve or modify the code. Options could include an ability to input WiFi network ID, password and callsign, selecting additional information to be displayed eg: local or solar weather, providing a dimming function etc.
+Full details of the capabilty of the clock, how to build and configure it are contained in the documentation. Further updates will be posted here should any update to the software or gerber files become availble. The software is open source so feel free to improve or modify the code. 
 
 The W8BH PCB enables the use of either a 2.2", 2.8" or 3.2" screen. This build uses the 2.8" LCD screen as it was chosen as the perceived best price/screen size option, although it does requires the removal of some PCB material around the mounting holes of the 2.8" display board to provide clearance for the standoffs to mount the display in the 'PCB sandwich' housing. This trimming of the display PCB can be done with confidence knowing that there are no tracks around the mounting holes. 
 

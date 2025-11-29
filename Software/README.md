@@ -1,3 +1,22 @@
+**Updated 29th November 2025**
+
+The latest version of the software v2.5 has merged the functionality developed by Robert AI6P and John WA2FZM with the functionality used by the Manly Warringah Radio Society (MWRS) Build project firmware (Contributions by Mark KD5RXT, Simon VK2YU and Richard VK2ARH) into a single instance which now provides the following additional features over the original NTP Clock:
+   -   WiFi Manager
+   -   Enhanced status displays during WiFi connection
+   -   EEPROM storage of Day/Night Mode settings
+   -   Day/Night Mode displays
+   -   Dimming capability
+   -   WiFi Manager Reset Switch
+   -   Ability to display multiple time zones
+   -   Defining a list of networks which to search for a wifi network during startup
+   -   Enhanced solar indicies display capabilities
+   -   WiFi Signal loss status indicator with robust background restarting process
+     
+A video covering these updates can be found here: 
+
+https://youtu.be/-XrX0bBR6TU
+
+
 **Update 31st October 2025**
 
 The latest version of the software is now V2.3. This release includes a permanant solar data server certificate, dimming and night mode functions and use of WiFi Manager to enter your WiFi network credentials. Thanks to Mark KD5RXT anmd Simon VK2YU for their support and contribution to the development of this code, along with the work done by Robert AI6P and John WA2FZM.

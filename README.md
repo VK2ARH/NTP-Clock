@@ -1,3 +1,8 @@
+** Update 30 Nov 25, New updated software v2.5 available - see software directory for details **
+
+<img width="1329" height="859" alt="image" src="https://github.com/user-attachments/assets/cd69e9bc-a1a3-4cae-a3c2-0998c8f0b515" />
+
+
 This repository holds the files used for the Bruce Hall W8BH NTP Clock which has been further developed by Richard VK2ARH together with contributions from a number of fellow Amateur Radio Operators who are acknowledged throughout the documentation.  The clock displays both local and UTC time derived and reqularly updated from an internet time server via wifi. The build project took Bruce's original BN33 PCB and added a top and bottom cover to house the clock board to support the CalQRP NTP Clock build in 2025.  The VK2ARH PCB then evoled through a series of changes to provide additional functionality (in conjunction with softwarwe development) whilst retaining the ability to operate as the same basic NTP clock developed by Bruce if the additional features are not required.The boards were developed to support the Manly Warringah Radio Society's build program in 2025 as a fun project to bring society members together and have some fun whilst building a practical addition to the 'shack'.
 
 

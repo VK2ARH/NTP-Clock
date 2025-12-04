@@ -1,4 +1,4 @@
-** Update 30 Nov 25, New updated software v2.5 available - see software directory for details **
+**Update 30 Nov 25, New updated software v2.5 available** - see software directory for details
 
 <img width="1329" height="859" alt="image" src="https://github.com/user-attachments/assets/cd69e9bc-a1a3-4cae-a3c2-0998c8f0b515" />
 

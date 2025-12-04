@@ -8,7 +8,7 @@ This repository holds the files used for the Bruce Hall W8BH NTP Clock which has
 
 Documentation and Gerber files specifically for the MWRS build project are also included in this repository in the appropriate sub folder. The main construction manual for the project "MWRS NTP CLock Build Notes" can be found in the document folder and should be read first to guide you through the resources available and method for building the clock.
 
-![image](https://github.com/user-attachments/assets/14b7e2cb-526c-4650-acd3-af152780c68b)
+<img width="1393" height="924" alt="image" src="https://github.com/user-attachments/assets/05327571-cecd-42e7-899b-a4fdfb8ae95e" />
 
 Bruce's website and additional information can be found here: http://w8bh.net/
 

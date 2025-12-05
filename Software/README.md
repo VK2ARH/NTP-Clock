@@ -4,7 +4,7 @@ Note: the current version of the softare v2.5 currently only operates on the ESP
 
 **Updated 29th November 2025**
 
-The latest version of the software v2.5 has merged the functionality developed by Robert AI6P and John WA2FZM with the functionality used by the Manly Warringah Radio Society (MWRS) Build project firmware (Contributions by Mark KD5RXT, Simon VK2YU and Richard VK2ARH) into a single instance which now provides the following additional features over the original NTP Clock:
+The latest version of the software v2.5 has merged the functionality developed by Robert AI6P and John WA2FZW with the functionality used by the Manly Warringah Radio Society (MWRS) Build project firmware (Contributions by Mark KD5RXT, Simon VK2YU and Richard VK2ARH) into a single instance which now provides the following additional features over the original NTP Clock:
    -   WiFi Manager
    -   Enhanced status displays during WiFi connection
    -   EEPROM storage of Day/Night Mode settings

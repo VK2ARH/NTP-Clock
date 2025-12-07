@@ -1,3 +1,7 @@
+**Updated 7th December 2025**
+Latest version of sofware for ESP8266 board v2.5.32 uploaded - only minor changes from previous release.
+
+
 **Update 2nd December 2025**
 
 Note: the current version of the softare v2.5 currently only operates on the ESP8266 processor - we are working to get it running on the ESP32, but that may take a little while - the firmare will be updated here when completed.

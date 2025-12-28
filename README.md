@@ -1,3 +1,6 @@
+**Update 28 Dec 25, New updated software v2.5.35 and Manual available** - see software directory for details
+This is a minor update which includes the ability to display Weather data (Temp, Humidity, Pressure) from the optional onboard BME280 sensor if fitted. Note this is only a preliminary release and the display is currently only using Celcius and haPa units at this stage.
+
 **Update 30 Nov 25, New updated software v2.5 available** - see software directory for details
 
 <img width="1329" height="859" alt="image" src="https://github.com/user-attachments/assets/cd69e9bc-a1a3-4cae-a3c2-0998c8f0b515" />

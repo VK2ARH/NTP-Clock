@@ -1,3 +1,6 @@
+**Update 8th April 2026 - New Software, hardware layout and construction manual to be issued later this month**
+If you are planning to build this project - I recommend that you delay a couple of weeks to take advantage of new board and software capabilities.
+
 **Update 28 Dec 25, New updated software v2.5.35 and Manual available** - see software directory for details
 This is a minor update which includes the ability to display Weather data (Temp, Humidity, Pressure) from the optional onboard BME280 sensor if fitted. Note this is only a preliminary release and the display is currently only using Celcius and haPa units at this stage.
 

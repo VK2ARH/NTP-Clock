@@ -1,3 +1,15 @@
+**Update 6th July 2026 - New hardware layout v2.7b gerbers and construction manual update**
+
+There have been significant upgrades undertaken with this project and the new functionality is introduced in the construction manual in the documents folder. This functionaliy includes GPS support, autoamatic Maidenhead calculation, OpenWeatherMap API calls, solar weather, LiPo battery, increased power options and a significantly updated Web Based configuration tool via the ESP32-S2 Mini's AP. The v2.7b hardware version of the clock is intented to operate whilst connected to a WiFi network (ie: in the shack) or when operating remotely (eg: POTA) and uses GPS for time synchronisation and location details when remote. The clock is also wired to take advantage of the TFT Screen's 'touch screen' capabilties to support future software developement.
+Whilst supporting a range of new capabilties, the clock can be built in its 'basic' form to operate from a USB-C 5v power supply without the use of GPS or additional Power supply options or environmental monitors.
+This is the project being built by the Manly Warringah Radio Society (MWRS - Sydney NWS), Cowtown Amateur Radio Club (Fort Worth, TX USA) and the Radio and Electronics Society of Southern Tasmania (Hobart, Tasmania) in their builthathon programs in 2026. The software to support this new capabitlity is in the final stages of testing and is expected to be released shortly.
+The following YouTube video records a presentation I gave recently to the MWRS and provides good background to the improvements and increased capabilities of the clock.
+
+https://youtu.be/coA3r7XgQvE?si=FMj0u2H3OHRHAzfh
+
+<img width="1829" height="989" alt="image" src="https://github.com/user-attachments/assets/86c770e1-0a10-438c-8735-788bb3f77e52" />
+
+
 **Update 8th April 2026 - New Software, hardware layout and construction manual to be issued later this month**
 If you are planning to build this project - I recommend that you delay a couple of weeks to take advantage of new board and software capabilities.
 

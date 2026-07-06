@@ -1,3 +1,12 @@
+**Update 6th July 2026 - New V2.7b construction manual - Initial Draft**
+
+The initial draft manual for the v2.7b hardware. This manual also outlines the upgrades made to the NTP Clock and the increased functionalilty and capabilities. A corresponding sofware manual will be issued in the next few weeks to provide details associated with the operation and loading of the latest software to augment the v2.7b clock. The construction manual and the associated software manual (still to be uploaded) are standalone and no other documentation is required to build and operate the V2.7b clock.
+
+<img width="1831" height="1216" alt="image" src="https://github.com/user-attachments/assets/39e16d6f-e48d-4ee2-bc66-e5c88b19ef24" />
+
+
+
+
 This folder contains documentation associated with the NTP Clock build - primarily to support the Manly Warringah Radio Society (MWRS) project developed by Richard VK2ARH. The principal build document for this project is **MWRS NTP Clock Build Notes v2.x.pdf** this should be read first. The MWRS NTP Clock Build Notes v1.x.pdf previously released related to the the earlier version of the board that was used during the MWRS Build Project which has now been supersceded by the V2.1 board with its additional capabilities. 
 
 This project is drawn from the NTP clock developed by Bruce Hall W6BH and a wealth of information relating to this project can be found on his website : http://w8bh.net/

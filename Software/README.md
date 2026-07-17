@@ -1,3 +1,7 @@
+**Updated 17th July 2026**
+
+Latest version of the code for the ESP32-S2 v4.1 Initial release has been uploaded to support the MWRS Buildathon. This is a comprehensive update and supports the large range of increased capability discussed in the build notes found in the documentation folder.
+
 **Updated 28th December 2025**
 
 Latest version of sofware for ESP8266 board v2.5.35 uploaded which includes support for BME280 Pressure, Humidity and Temperature display. 

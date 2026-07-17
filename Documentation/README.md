@@ -1,3 +1,9 @@
+**Update 17th July 2026 - New V2.7b Version 1.0 - Initial Release Contruction Manual Uploaded**
+
+The latest construction manual for the V2.7 board has been released. This is a comprehensive construction manual and should be all you need in order to construct the clock. Addititional documentation including legacy documents are also to be found in this repository.
+
+The latest version of the software v4.x has been uploaded to the software sub directory
+
 **Update 6th July 2026 - New V2.7b construction manual - Initial Draft**
 
 The initial draft manual for the v2.7b hardware. This manual also outlines the upgrades made to the NTP Clock and the increased functionalilty and capabilities. A corresponding sofware manual will be issued in the next few weeks to provide details associated with the operation and loading of the latest software to augment the v2.7b clock. The construction manual and the associated software manual (still to be uploaded) are standalone and no other documentation is required to build and operate the V2.7b clock.

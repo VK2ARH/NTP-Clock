@@ -1,6 +1,6 @@
 **Update 20 July 2026**
 
-Latest software and software manual can be found in the respective folders to support and gain best advantage of the v2.7 boards and hardware. latest software release now version 4.x
+Latest software and software manual can be found in the respective folders to support v2.7 boards with significant uplift in capability. Latest software release now version 4.x
 
 
 **Update 6th July 2026 - New hardware layout v2.7b gerbers and construction manual update**

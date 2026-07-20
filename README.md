@@ -1,3 +1,8 @@
+**Update 20 July 2026**
+
+Latest software and software manual can be found in the respective folders to support and gain best advantage of the v2.7 boards and hardware. latest software release now version 4.x
+
+
 **Update 6th July 2026 - New hardware layout v2.7b gerbers and construction manual update**
 
 There have been significant upgrades undertaken with this project and the new functionality is introduced in the construction manual in the documents folder. This functionaliy includes GPS support, automatic Maidenhead calculation, OpenWeatherMap API calls, solar weather, LiPo battery, increased power options and a significantly updated Web Based configuration tool via the ESP32-S2 Mini's AP. The v2.7b hardware version of the clock is intented to operate whilst connected to a WiFi network (ie: in the shack) or when operating remotely (eg: POTA) and uses GPS for time synchronisation and location details when remote. The clock is also wired to take advantage of the TFT Screen's 'touch screen' capabilties to support future software developement.

@@ -1,3 +1,11 @@
+**Update 20th July 2026**
+
+Minor update to fix longitude being the only positional information displayed when GPS data was entered manually via the AP using a Web portal. Selecting GPS data when the GPS is disabled ( or not present) now displays the Lat, Lon and Alt entered via the AP portal. 
+Whilst I will make every effort to hold the latest code in this repository, Mark KD5RXT's repository with his latest code and software documentation can be found 
+here:   
+
+	https://github.com/mjculross/NTPclock-for-MWRS-CARC-REAST
+
 **Updated 17th July 2026**
 
 Latest version of the code for the ESP32-S2 v4.1 Initial release has been uploaded to support the MWRS Buildathon. This is a comprehensive update and supports the large range of increased capability discussed in the build notes found in the documentation folder.

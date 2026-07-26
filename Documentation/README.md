@@ -1,3 +1,10 @@
+**Update 26th July 2026 - New Software Manual for Version 4 software Uploaded**
+
+A copy of Mark Culross KD5RXT's software manual for the NTP Clock has been added to this repository. You should always check Marks repository for any futher updates to this manual and the Clock Software.
+
+https://github.com/mjculross/NTPclock-for-MWRS-CARC-REAST
+
+
 **Update 17th July 2026 - New V2.7b Version 1.0 - Initial Release Contruction Manual Uploaded**
 
 The latest construction manual for the V2.7 board has been released. This is a comprehensive construction manual and should be all you need in order to construct the clock. Addititional documentation including legacy documents are also to be found in this repository.

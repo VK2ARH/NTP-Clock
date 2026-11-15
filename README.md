@@ -1,3 +1,18 @@
+**Update 15th November 2026**
+There continues to be improvements and development of the NTP Clock software, with Mark KD5RXT undertaking a significant amount of work to improve the software - which is now quite functionally rich. For the latest software which support both the ESP32-S2 Mini and th4e ESP32-S3 Mini please go to Mark's Github site for the latest code - his GitHub site can be found here: https://github.com/mjculross/NTPclock-for-MWRS-CARC-REAST 
+
+Whilst the latest software supports the ESP32-S2 Mini, to software continues to 'test' to upper limits of the available RAM For this reason it is recommended that the ESP32-S3 Mini processor is used as the processor of choice for the NTP Clock - although the ESP32-S2 can be used with limitations. Marks Software documentation covers this issue and the relevant sections is reproduced here:
+
+"The family of ESP32 processors produced by Espressif includes a variety of members with a wide range of capabilities. The NTPclock project was designed to run specifically on an ESP32-S2-mini processor. This particular processor was selected for its low cost, its large number of GPIO pins (allowing connection of a TFT display, a BMP-280 sensor, supply voltage measurement, display dimming, etc.), its ability to host an AP capability supporting a configuration webpage, and the ease with which it can be customized with software/firmware programming.
+
+In spite of all of its advantages, it does also have some limitations to be aware of. First and foremost, the ESP32-S2-mini processor module has a limited amount (320K) of available RAM. With all of the capabilities that this version of the NTPclock now makes available, the utilization of the limited RAM resources requires special considerations. The authors of this version of the NTPclock firmware source have striven to do their very best at managing the utilization of the limited RAM resources to maximize capability, while also working to minimize any potentially undesirable side effects.
+
+The ESP32-S2-mini processor contains insufficient RAM to have/leave the GPS enabled while also fetching solar data from the internet. With this in mind, whenever the GPS is activated/enabled, solar data fetching is automatically temporarily suspended. It is important to be aware that, if the solar data selection is re-enabled while the GPS is also enabled, the fetching of solar data will likely fail due to the lack of sufficient RAM required to support successful execution of the secure TLS handshake - the NTPclock may or may not also reboot itself if/when these handshake failures occur."
+
+Mark's software documentation provides the scenario descriptions on P10 and provides additional guidance on how to successfully make use of all of the capabilities provided by the NTPclock, while also managing these limitations when utilizing the ESP32-S2-mini processor module.
+
+Taking these limitations into consideration, the current recommendation is to build the NTPclock project utilizing an ESP32-S3-mini processor module, as it is newer and includes even more RAM, allowing the use of all capabilities without any imposed limitations. It may cost a few dollars more, but its well worth it to avoid having to manage the issues when using a GPS with all the other functionality when in the field. 
+
 **Update 20 July 2026**
 
 Latest software and software manual can be found in the respective folders to support v2.7 boards with significant uplift in capability. Latest software release now version 4.x

@@ -1,3 +1,8 @@
+**Update 15 November 2026**
+
+The latest code is available from Mark KD5RXT's Github site along with the software documentation which includes instructions for compiling and uploading the code. These instructions should be read in full to ensure the code is correctly compiled for the desired processor and configuration. Be aware of the limitations associated with the ESP32-S2 Mini processor (discussed in the Read.Me file for the main NTP-Clock branch in this repository.
+
+
 **Update 20th July 2026**
 
 Minor update to fix longitude being the only positional information displayed when GPS data was entered manually via the AP using a Web portal. Selecting GPS data when the GPS is disabled ( or not present) now displays the Lat, Lon and Alt entered via the AP portal. 
